@@ -2,8 +2,8 @@ package main;
 
 public class Main {
 
-        public static void main(String args[]){
-            System.out.println("Hello Java 65");
+        public static void main(String[] args){
+            System.out.println("Hello Java fsdf");
         }
 }
 
